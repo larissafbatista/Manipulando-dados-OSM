@@ -1,5 +1,8 @@
 ## Manipulando dados OpenStreetMap
 
+Utilização de dados OSM e da metodologia SNISB para classificação de Danos Potenciais Associados de uma área de interesse.
+
+## Notas:
 
 Projeto: Desenvolvimento de ferramentas computacionais (algoritmos e interface) para análise e classificação de danos potenciais associados em cenários hipotéticos de            rupturas de barragens de acumulação de água.
 
